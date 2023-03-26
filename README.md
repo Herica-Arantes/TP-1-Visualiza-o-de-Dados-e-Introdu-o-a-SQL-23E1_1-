@@ -33,4 +33,5 @@ Adicione um gráfico de pizza para o conteúdo da coluna Product Name
 Adicione um gráfico de pizza para o conteúdo da coluna Product Type
 Adicione um Scorecard para a dimensão "Number Sold".
 Descreva o dashboard que acabou de ser criado para a cafeteria. O que estamos vendo nele?
-Disponibilize o link para compartilhamento do Dashboard
+Disponibilize o link para compartilhamento do Dashboard ====+++++++++++++++++++++++++++++>>>>>>>>>>>>>>>>>>>>>>>>   https://lookerstudio.google.com/reporting/eec6dc7b-3383-4eff-bf01-f8553042d3bf
+https://docs.google.com/spreadsheets/d/1nNMtSlujns8V_ckaJXFugmxe_zc5T7yI43GVMyMaphQ/edit?usp=sharing
