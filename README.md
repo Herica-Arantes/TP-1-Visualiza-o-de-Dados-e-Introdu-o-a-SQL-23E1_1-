@@ -1,4 +1,4 @@
-# TP-1-Visualiza-o-de-Dados-e-Introdu-o-a-SQL-23E1_1-
+# TP-1-Visualizacao-de-Dados-e-Introducao-a-SQL-23E1_1
 
 Olá Herica,
 
